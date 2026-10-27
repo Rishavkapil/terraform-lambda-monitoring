@@ -1,0 +1,7 @@
+# Ignore hidden files and directories everywhere
+.*
+!.gitignore
+
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.*
